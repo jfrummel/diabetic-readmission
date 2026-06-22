@@ -144,7 +144,7 @@ diabetes-readmission/
 
 ## About
 
-Built by **[Your Name]** as a demonstration of an end-to-end analytics workflow — sourcing, cleaning, analyzing, modeling, and communicating real-world clinical data.
-📧 [email] · 🔗 [LinkedIn] · 📊 [Dashboard]
+Built by Jeremy Rummel as a demonstration of an end-to-end analytics workflow — sourcing, cleaning, analyzing, modeling, and communicating real-world clinical data.
+📧 jfrummel@gmail.com · 🔗 https://www.linkedin.com/in/jeremy-rummel-73ab3356/ · 📊 [Dashboard]
 
 *Data: Strack et al. (2014), "Impact of HbA1c Measurement on Hospital Readmission Rates," BioMed Research International. Dataset via UCI ML Repository, CC BY 4.0.*
