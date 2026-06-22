@@ -10,11 +10,10 @@
 
 Hospitals are financially penalized when patients are readmitted within 30 days of discharge — under the U.S. Centers for Medicare & Medicaid Services (CMS) Hospital Readmissions Reduction Program, readmissions are treated as a signal of care quality and cost. Diabetic inpatients are a high-risk group.
 
-**This project answers a decision-maker's question:**
+**This project helps answer this question:**
 
 > *Which diabetic patients are most likely to be readmitted within 30 days, what factors drive that risk, and where should a care-management team focus to reduce it?*
 
-The deliverable is not just a model — it's a prioritized, plain-language recommendation backed by the analysis.
 
 ---
 
